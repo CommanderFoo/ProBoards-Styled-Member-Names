@@ -167,3 +167,5 @@ class Styled_Member_Names {
 	}
 
 }
+
+Styled_Member_Names.init();
